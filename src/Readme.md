@@ -16,3 +16,5 @@ Pasos seguidos:
 
 6:Añadimos al gitignore el archivo ExamenCODdia4Definitivo.iml y añadimos
     el gitignore y lo añadimos al commit.
+
+7:Haemos un push al repositorio de GitHub y creamos una release con la versión v1.0
